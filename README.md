@@ -2,9 +2,11 @@
 
 ![Usage](./screenshots/display.png)
 
-<video width="320" height="240" controls>
-  <source src="./screenshots/.mp4" type="video/mp4">
-</video>
+
+
+https://github.com/Ayobami0/regex-cli/assets/89994264/f5bb4ffe-e20d-4894-8ac2-1fbd1901e9e1
+
+
 
 ## Requirements
 - [golang](https://go.dev/)
