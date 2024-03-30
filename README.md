@@ -2,7 +2,7 @@
 
 ![Usage](./screenshots/display.png)
 
-![Playback](./screenshots/video.mkv)
+![Playback](./screenshots/video.mp4)
 
 ## Requirements
 - [golang](https://go.dev/)
