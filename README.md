@@ -2,7 +2,9 @@
 
 ![Usage](./screenshots/display.png)
 
-![Playback](./screenshots/video.mp4)
+<video width="320" height="240" controls>
+  <source src="./screenshots/.mp4" type="video/mp4">
+</video>
 
 ## Requirements
 - [golang](https://go.dev/)
@@ -14,5 +16,8 @@ go build -o regex-cli main.go
 ```
 
 ## Running
-`regex-cli`
+```
+regex-cli
+
+```
 
